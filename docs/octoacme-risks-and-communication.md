@@ -23,6 +23,8 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Work with Stakeholder Liaison for executive and external stakeholder communications
+- See [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md) for details on the Stakeholder Liaison role
 
 ## Communication Templates
 Weekly Status Template:

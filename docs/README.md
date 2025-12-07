@@ -24,20 +24,40 @@ OctoAcme's project management approach is guided by these foundational principle
 
 ## Key Roles and Personas
 
-### Project Manager (PM)
+OctoAcme project teams include both delivery and supporting roles that work together to ensure successful project outcomes.
+
+### Delivery & Execution Roles
+
+#### Project Manager (PM)
 Coordinates delivery activities, manages schedules, risks, and communications. Ensures the team delivers on commitments efficiently through planning, facilitation, and stakeholder management.
 
-### Product Manager (PdM)
+#### Product Manager (PdM)
 Defines what should be built to deliver customer and business value. Owns the product vision, prioritizes the backlog, and measures outcomes through metrics and user research.
 
-### Developers
+#### Developers
 Design, build, test, and deliver software components. Collaborate with product and project leads to implement features that meet acceptance criteria and quality standards.
 
-### QA/Testing
+#### QA/Testing
 Validate quality through comprehensive testing strategies, ensure acceptance criteria are met, and maintain high standards for reliability and user experience.
 
-### Stakeholders
+### Supporting & Enabling Roles
+
+#### Onboarding Coordinator
+Ensures new team members have a smooth, well-structured introduction to OctoAcme's processes, tools, and culture. Designs and maintains onboarding programs that accelerate time-to-productivity.
+
+#### Stakeholder Liaison
+Bridges the gap between project teams and external or executive stakeholders. Translates technical progress into business value and ensures timely communication of project status and risks.
+
+#### Process Improvement Champion
+Drives continuous improvement of project management practices, tools, and workflows. Identifies inefficiencies, experiments with solutions, and advocates for changes that enhance team productivity.
+
+#### Documentation Steward
+Ensures that project and institutional knowledge is captured, organized, and accessible. Maintains documentation standards and reduces knowledge silos.
+
+#### Stakeholders
 Provide inputs, approvals, and strategic guidance. Stay informed through regular updates and contribute to decision-making at key milestones.
+
+📄 For detailed role descriptions, responsibilities, and interactions, see **[Roles and Personas](octoacme-roles-and-personas.md)**
 
 ## Project Lifecycle Overview
 
@@ -177,6 +197,9 @@ Throughout the project lifecycle, these artifacts ensure alignment and transpare
 - **Risk Register**: Identified risks with mitigation plans and owners
 - **Retrospective Notes**: Learnings and action items for improvement
 - **Release Notes**: Summary of changes, migrations, and known issues
+- **Onboarding Checklist**: Structured guide for new team member integration ([Template](onboarding-checklist-template.md))
+- **Process Improvement Log**: Track and measure process enhancements ([Template](process-improvement-log-template.md))
+
 
 ## Risk Management
 
@@ -211,6 +234,11 @@ Explore detailed guidance for each aspect of project management:
 - **[Release & Deployment](octoacme-release-and-deployment.md)**: Release types, deployment checklist, rollback procedures
 - **[Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)**: Learning capture and action tracking
 - **[Risk Management & Communication](octoacme-risks-and-communication.md)**: Risk register, stakeholder updates, escalation
+
+### Templates & Checklists
+- **[Onboarding Checklist Template](onboarding-checklist-template.md)**: Structured 30-day onboarding guide for new team members
+- **[Process Improvement Log Template](process-improvement-log-template.md)**: Track and measure process enhancements and experiments
+
 
 ## How to Use This Documentation
 

@@ -14,11 +14,21 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
-- Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+
+### Delivery & Execution
+- **Project Manager (PM)**: coordinates delivery, schedules, risk, communications.
+- **Product Manager (PdM)**: defines outcomes, prioritizes backlog, and measures success.
+- **Developers**: implement features, collaborate on design and testability.
+- **QA/Testing**: validate quality and acceptance criteria.
+
+### Supporting & Enabling Roles
+- **Onboarding Coordinator**: ensures smooth onboarding and accelerates team member productivity.
+- **Stakeholder Liaison**: manages stakeholder communications and translates technical progress to business value.
+- **Process Improvement Champion**: drives continuous improvement of practices and workflows.
+- **Documentation Steward**: maintains knowledge repositories and documentation standards.
+- **Stakeholders**: provide inputs, approvals, and strategic guidance.
+
+See [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md) for detailed role descriptions and interactions.
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -27,6 +37,8 @@ Applies to all cross-functional projects that deliver product features, services
 - Acceptance Criteria & Definition of Done
 - Risk Register
 - Retrospective notes and action items
+- Onboarding Checklist (see [onboarding-checklist-template.md](onboarding-checklist-template.md))
+- Process Improvement Log (see [process-improvement-log-template.md](process-improvement-log-template.md))
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.

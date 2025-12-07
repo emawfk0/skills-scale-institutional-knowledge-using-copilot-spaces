@@ -38,3 +38,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Project documentation maintained and accessible (coordinate with Documentation Steward)
+- [ ] Knowledge sharing sessions scheduled for complex features
