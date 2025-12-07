@@ -20,6 +20,8 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
 - Review outstanding actions in the weekly PM sync
+- Work with the Process Improvement Champion to document and measure significant process changes
+- Use the [Process Improvement Log Template](process-improvement-log-template.md) for tracking systemic improvements
 
 ## Example Action Item Template
 - Title:
